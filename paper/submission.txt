@@ -1,0 +1,16 @@
+Continuity by Permission: Small-State Agency across Cable Repair, Satellite Licensing and Power Trade
+
+Shivam Gupta | Independent Researcher
+shivam1720406@gmail.com
+
+ABSTRACT
+
+How can small and middle powers turn infrastructure diversification into an option they can actually exercise during disruption? This paper argues that agency depends partly on permission continuity: the alignment of authorised scope, operational readiness and validity periods across the complete recovery path. It compares nine public documents covering eight institutional units: ASEAN cable-repair coordination, satellite permissions in Tonga, Niue, the Federated States of Micronesia and Sri Lanka, Kiribati's gateway planning, and importer and wheeling arrangements in Lao PDR-Thailand-Malaysia-Singapore electricity trade.
+
+The comparison shows how governments exercise agency through distinct instruments: coordinating access to repair, conditioning satellite entry and negotiating cross-border transmission. It also identifies why these interventions cannot be treated as equivalent continuity guarantees. Kiribati's documented operating permission coexists with unresolved siting prerequisites; LTMS announcements distinguish importer authority from a later wheeling agreement; satellite instruments differ in scope and duration.
+
+An executable permission-window audit separates availability on a given day from coverage throughout a recovery period. Declared stress tests show that doubling co-expiring fallback paths leaves temporal coverage unchanged, while staggered permissions or bounded continuation can extend it. These conditional results are not estimated outage probabilities. The paper proposes an essential-service continuity schedule linking activation responsibility, permission expiry and recovery commitments while preserving regulatory review and suspension powers. It explains when negotiated interdependence produces usable alternatives and when improvements to one prerequisite leave dependence unresolved. The contribution connects cable, satellite and power governance through a common, reproducible assessment of the permissions needed for continuity.
+
+SHORT BIO
+
+Shivam Gupta is an independent researcher and applied AI engineer working across India and the United Arab Emirates. He is the founder of Siloed and holds a Bachelor of Technology in Computer Science and Design from the Indraprastha Institute of Information Technology Delhi. His work combines software systems, product development and reproducible technical evaluation. His research interests include the governance of digital dependencies, service continuity and practical tools for assessing infrastructure resilience.

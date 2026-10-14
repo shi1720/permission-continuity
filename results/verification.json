@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-14",
+  "main_text_words_excluding_abstract_tables_captions_references": 3078,
+  "submission_abstract_words": 245,
+  "bio_words": 72,
+  "documentary_units": 8,
+  "focal_documents": 9,
+  "references": 18,
+  "deterministic_stress_configurations": 1800,
+  "exhaustive_oracle_comparisons": 27000,
+  "test_methods_passed": 6,
+  "pdf_pages": {
+    "paper": 9,
+    "abstract_bio": 1
+  },
+  "visual_qa": "All nine manuscript pages and the submission page inspected; Figure 2 legend overlap corrected; final figures and references checked.",
+  "limitations": "Documentary comparison plus hypothetical interval analysis; no estimated country outage effect, no patent or acceptance claim."
+}

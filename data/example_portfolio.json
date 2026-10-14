@@ -1,0 +1,15 @@
+{
+  "description": "Hypothetical worked example; not a named country's permissions",
+  "candidate_horizon": [0, 365],
+  "recovery_days": 90,
+  "switching": false,
+  "paths": [{
+    "id": "example_fallback",
+    "scope_reviewed": true,
+    "capacity_and_readiness_reviewed": true,
+    "permissions": [
+      {"id": "service", "review_status": "verified", "source": "Hypothetical scenario assumption", "windows": [[0, 365]]},
+      {"id": "site", "review_status": "verified", "source": "Hypothetical scenario assumption", "windows": [[0, 180]]}
+    ]
+  }]
+}

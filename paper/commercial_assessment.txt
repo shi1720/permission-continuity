@@ -1,0 +1,52 @@
+DESK ASSESSMENT OF PRACTICAL APPLICATIONS
+14 October 2026
+
+Evidence, not a customer survey or market-size estimate
+
+The most plausible application is an auditable permission-coverage module for
+existing operational resilience and third-party risk workflows. Target users
+include infrastructure procurement teams, essential-service operators and
+project financiers. The paper's public records show multiple prerequisites and
+heterogeneous permission terms; they do not establish willingness to pay.
+
+Existing products make a broad claim of an unserved risk-software market
+untenable. ServiceNow's official Data Relationships Framework documentation
+already maps business services to locations, contracts, third parties and
+engagements. Its CMDB/BIA integration documentation describes automatic
+dependency updates. OneTrust markets third-party risk management and cross-domain
+risk governance. This artifact should therefore be positioned as a transparent
+calculation and evidence schema that can integrate with established systems,
+not as the first dependency-mapping or continuity platform.
+
+Primary product sources:
+https://www.servicenow.com/docs/r/governance-risk-compliance/main-node-relationship-fw.html
+https://www.servicenow.com/docs/r/xanadu/governance-risk-compliance/add-dependencies-automatically.html
+https://www.onetrust.com/products/third-party-risk-management/?submit=true
+https://www.onetrust.com/solutions/security-and-risk-teams/
+Accessed 14 October 2026. Vendor descriptions establish offered capabilities,
+not independently verified effectiveness or comparative superiority.
+
+Proposed service
+
+1. Define essential service scope, capacity and acceptable interruption.
+2. Obtain reviewed legal and contractual permissions and readiness evidence.
+3. Calculate complete-path coverage over a declared recovery horizon.
+4. Report exact boundary dates, missing evidence and responsible decision makers.
+5. Revalidate after renewal, supplier change, exercise or incident.
+
+The supplied JSON CLI blocks a coverage claim when scope, readiness or permission
+terms are marked unresolved. It cannot establish that a reviewer is correct.
+Automated document extraction could reduce clerical effort, but consequential
+interpretation still needs qualified review. No customer interviews, production
+deployment, revenue forecast or patentability determination has been performed.
+
+Economic value hypothesis
+
+An institution might pay for maintained evidence and coordination of obligations
+because the relevant permissions change across organisations. The cost driver
+is document review and operational validation, not the interval algorithm.
+Possible delivery models are an integration module or advisory assurance service.
+Before investment, test whether the workflow finds actionable gaps beyond
+existing expiry alerts and whether responsible teams can resolve them. Measure
+review effort, additional actionable boundaries and successful exercise coverage.
+These are validation criteria, not claimed market results.

@@ -1,0 +1,82 @@
+[
+  {
+    "portfolio": "one_365_day_path",
+    "duration_days": 90,
+    "switching": 0,
+    "safe_start_days": 276,
+    "uncovered_start_days": 89,
+    "coverage_fraction": 0.7561643835616438
+  },
+  {
+    "portfolio": "one_365_day_path",
+    "duration_days": 90,
+    "switching": 1,
+    "safe_start_days": 276,
+    "uncovered_start_days": 89,
+    "coverage_fraction": 0.7561643835616438
+  },
+  {
+    "portfolio": "two_coexpiring_paths",
+    "duration_days": 90,
+    "switching": 0,
+    "safe_start_days": 276,
+    "uncovered_start_days": 89,
+    "coverage_fraction": 0.7561643835616438
+  },
+  {
+    "portfolio": "two_coexpiring_paths",
+    "duration_days": 90,
+    "switching": 1,
+    "safe_start_days": 276,
+    "uncovered_start_days": 89,
+    "coverage_fraction": 0.7561643835616438
+  },
+  {
+    "portfolio": "two_staggered_paths",
+    "duration_days": 90,
+    "switching": 0,
+    "safe_start_days": 365,
+    "uncovered_start_days": 0,
+    "coverage_fraction": 1.0
+  },
+  {
+    "portfolio": "two_staggered_paths",
+    "duration_days": 90,
+    "switching": 1,
+    "safe_start_days": 365,
+    "uncovered_start_days": 0,
+    "coverage_fraction": 1.0
+  },
+  {
+    "portfolio": "365_day_service_180_day_site",
+    "duration_days": 90,
+    "switching": 0,
+    "safe_start_days": 91,
+    "uncovered_start_days": 274,
+    "coverage_fraction": 0.2493150684931507
+  },
+  {
+    "portfolio": "365_day_service_180_day_site",
+    "duration_days": 90,
+    "switching": 1,
+    "safe_start_days": 91,
+    "uncovered_start_days": 274,
+    "coverage_fraction": 0.2493150684931507
+  },
+  {
+    "portfolio": "365_day_path_90_day_continuation",
+    "duration_days": 90,
+    "switching": 0,
+    "safe_start_days": 365,
+    "uncovered_start_days": 0,
+    "coverage_fraction": 1.0
+  },
+  {
+    "portfolio": "365_day_path_90_day_continuation",
+    "duration_days": 90,
+    "switching": 1,
+    "safe_start_days": 365,
+    "uncovered_start_days": 0,
+    "coverage_fraction": 1.0
+  }
+]
