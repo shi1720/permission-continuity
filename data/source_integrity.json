@@ -1,0 +1,23 @@
+[
+  {
+    "source_id": "S9",
+    "sha256": "87289f9b92b70bef8753d5092abecc71ae8ff1013adeda19484e4fc58cffae52",
+    "bytes": 225364,
+    "retrieval_date": "2026-10-14",
+    "note": "Downloaded for verification; source URL in sources.json. Third-party PDF is not redistributed."
+  },
+  {
+    "source_id": "S13",
+    "sha256": "c9c041d3f77f59022d2169af059a546376b0b8ac0dda268ab0250da2f61ba957",
+    "bytes": 4171048,
+    "retrieval_date": "2026-10-14",
+    "note": "Downloaded for verification; source URL in sources.json. Third-party PDF is not redistributed."
+  },
+  {
+    "source_id": "S18",
+    "sha256": "464b22842a5a8cb32c5a9e97b6c049cd32a371bcf0690228ef3ac44d00cec67c",
+    "bytes": 623005,
+    "retrieval_date": "2026-10-14",
+    "note": "Downloaded for verification; source URL in sources.json. Third-party PDF is not redistributed."
+  }
+]
